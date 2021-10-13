@@ -1,2 +1,2 @@
 # FriendJa_Live
-## Live Version is [= here =](https://friendja.herokuapp.com//)
+## Live Version is [= here =](https://friendja.herokuapp.com)
