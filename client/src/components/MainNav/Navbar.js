@@ -42,7 +42,7 @@ export default function Navbar() {
                     aria-labelledby='navbarDropdownMenuLink'
                   >
                     <li>
-                      <a className='dropdown-item' href='/random'>
+                      <a className='dropdown-item' href='/'>
                         Home
                       </a>
                     </li>
